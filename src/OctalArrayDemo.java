@@ -1,4 +1,3 @@
-package rhirwa;
 
 public class OctalArrayDemo {
 
